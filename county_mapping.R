@@ -4,10 +4,6 @@ library(maps)
 library(mapdata)
 library(maptools)
 library(sp)
-library(ggrepel)
-
-
-census_api_key("f77de7a3ed4802ce5f3a28b99ba1105b8bb39529", overwrite = F)
 
 # used this tutorials: 
 # https://stackoverflow.com/questions/45928898/how-do-i-use-ggplot2-to-create-a-border-around-a-group-of-us-counties/45931429
